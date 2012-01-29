@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="plusConfirm4Gimu_item">
+        <item>@string/ok_label</item>
+        <item>@string/cancel_label</item>
+    </array>
+    <array name="plusConfirm4Pool_item">
+        <item>@string/ok_label</item>
+        <item>@string/cancel_label</item>
+    </array>
+</resources>

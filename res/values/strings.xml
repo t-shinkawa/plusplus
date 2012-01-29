@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="target_plus_cnt">目標：年間100++。</string>
+    <string name="current_plus_cnt">現在：XX++。</string>
+    <string name="app_name">plus++</string>
+    <string name="btn_gim_text">ジム++。</string>
+    <string name="btn_pool_text">プール++。</string>
+    <string name="plusConfirm4Gimu_title">ジム++。しますか？</string>
+    <string name="plusConfirm4Pool_title">プール++。しますか？</string>
+    <string name="ok_label">OK</string>
+    <string name="cancel_label">キャンセル</string>
+</resources>
